@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-WallpaperhubApiApplication<wallpaperhub_api>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.example.psk.wallpaperhub_api.WallpaperhubApiApplication",
+      "projectName": "wallpaperhub_api",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
